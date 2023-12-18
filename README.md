@@ -64,7 +64,7 @@ git remote remove origin
     
     Go with defaults - once check Repo
     
-    Select a template -> Click on Empty job
+   Select a template -> Click on Empty job
     
     Agent Specification - ubuntu-latest
     
@@ -103,7 +103,15 @@ git remote remove origin
 
 8. Re-run the CI Pipeline
 
+![BUILD-PIPELINE-STARTER](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/8583c21d-b811-4aaa-9680-c8689f535aa6)
 
+
+9. Access the application on the Web App Service URL
+
+![BUILD](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/fb9c343c-d3fe-467b-8bd1-f83c4c18c6d7)
+
+
+---
 
 zufq6fkeks6pkvr2vx7pfqckhanyswjaynpx3va2jrkkhkgbw55a
 
