@@ -116,16 +116,4 @@ git remote remove origin
 
 ![BUILD-PIPELINE-STARTER](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/9986331c-3649-4e22-84d8-b41c2923a7b5)
 
----
 
-zufq6fkeks6pkvr2vx7pfqckhanyswjaynpx3va2jrkkhkgbw55a
-
-Self-Hosted-Pavan
-
-https://dev.azure.com/AzureDevOps-Pavan
-
-./config.sh
-
-./run.sh
-
-tar zxvf
