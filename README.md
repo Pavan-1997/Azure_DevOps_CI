@@ -114,6 +114,12 @@ git remote remove origin
 ---
 ## Deploying the Application using a Starter Pipeline with Starter_Build_Pipeline.yml file 
 
+1. Go to the dev.azure.com
+
+2. Select Pipelines
+
+3. Create New Pipeline -> Select Azure Repos Git -> Select the Repo ->  Now select the Starter pipeline -> User the file `Starter_Build_Pipeline.yml` present in the repo 
+
 ![BUILD-PIPELINE-STARTER](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/9986331c-3649-4e22-84d8-b41c2923a7b5)
 
 
