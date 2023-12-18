@@ -3,7 +3,7 @@
 1. Clone the Repo
    
 ```
-git clone https://github.com/piyushsachdeva/Youtube_Clone.git
+git clone https://github.com/Pavan-1997/Azure_DevOps_CI.git
 ```
 
 2. Go to Azure DevOps Portal
