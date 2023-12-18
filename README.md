@@ -112,6 +112,11 @@ git remote remove origin
 
 
 ---
+## Deploying the Application using a Starter Pipeline with Starter_Build_Pipeline.yml file 
+
+![BUILD-PIPELINE-STARTER](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/9986331c-3649-4e22-84d8-b41c2923a7b5)
+
+---
 
 zufq6fkeks6pkvr2vx7pfqckhanyswjaynpx3va2jrkkhkgbw55a
 
