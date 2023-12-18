@@ -106,7 +106,7 @@ git remote remove origin
 ![BUILD-PIPELINE](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/40779173-9d4f-4ea0-9288-c3d7150cfe78)
 
 
-9. Access the application on the Web App Service URL
+9. Access the application on the Web App URL
 
 ![BUILD](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/fb9c343c-d3fe-467b-8bd1-f83c4c18c6d7)
 
