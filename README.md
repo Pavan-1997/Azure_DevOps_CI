@@ -103,7 +103,7 @@ git remote remove origin
 
 8. Re-run the CI Pipeline
 
-![BUILD-PIPELINE-STARTER](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/8583c21d-b811-4aaa-9680-c8689f535aa6)
+![BUILD-PIPELINE](https://github.com/Pavan-1997/Azure_DevOps_CI/assets/32020205/40779173-9d4f-4ea0-9288-c3d7150cfe78)
 
 
 9. Access the application on the Web App Service URL
